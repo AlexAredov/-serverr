@@ -8,5 +8,5 @@ build:
   args: spring-boot:repackage -Pproduction
 
 run:
-  jarName: out/artifacts/emploeesbackend_jar/emploeesbackend.jar
+  jarName: emploeesbackend-0.0.1-SNAPSHOT.jar
   containerPort: 8080
